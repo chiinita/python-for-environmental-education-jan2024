@@ -8,7 +8,7 @@ These additions do not supersede any of the content of that Code of Conduct, but
 To report violations of the Code of Conduct, or reach the conduct committee responsible for this event for any other reason, please do one of the following:
 
 - Speak to the representatives of Rho Zeta at the event
-- Email [conduct@rhozheta.io](mailto:conduct@rhozheta.io)
+- Email [conduct@rhozeta.io](mailto:conduct@rhozeta.io)
 
 If you report an incident in-person then that team member is responsible for writing up a report once any urgent action has been resolved.
 If you are reporting over email we encourage, but do not require, you to check the [Procedure For Reporting Code of Conduct Incidents](https://www.python.org/psf/conduct/reporting/) page for a list of the details that will help us handle the report quickly.
