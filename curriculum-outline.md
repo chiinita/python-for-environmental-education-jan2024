@@ -1,7 +1,7 @@
 # Curriculum Outline
 
 This document is an outline of the curriculum; the actual taught material will be based on the notebooks found in this repository.
-Those notebooks were presented at PyCon US '23 and PyCon UK '23, and the contents will be merged into a single, beginner-level teaching experience for the workshop.
+Those notebooks were presented at [PyCon US '23](https://youtu.be/rdyM6WDPzCY?feature=shared) and [PyCon UK '23](https://youtu.be/Sbkdf6vl6n0?feature=shared), and the contents will be merged into a single, beginner-level teaching experience for the workshop.
 
 ## Pre-requisites
 
