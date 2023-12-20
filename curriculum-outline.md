@@ -5,11 +5,11 @@ Those notebooks were presented at [PyCon US '23](https://youtu.be/rdyM6WDPzCY?fe
 
 ## Pre-requisites
 
-We assume that the Science Oxford participants have beginner Python, and we will mention this pre-requisite on the sign-up page for other participants.
+Participants will need beginner Python skills, and set-up and bring a computer with mainstream Python open-source software to the workshop (as per instructions that will be provided in advance).
 
 ## Learning Outcomes
 
-We envision four key learning areas, although there will be overlap.
+Four key learning areas, although there will be overlap.
 
 - Python Skills
 - Dataset Skills
@@ -18,7 +18,7 @@ We envision four key learning areas, although there will be overlap.
 
 ### Python Skills
 
-All teaching will be in Python, but we will ensure that certain non-beginner topics are covered.
+All teaching will be in Python, but certain non-beginner topics are covered.
 
 - Interpreted language
 - Notebook vs script
