@@ -27,7 +27,7 @@ All teaching will be in Python, but certain non-beginner topics are covered.
 
 ### Dataset Skills:
 
-- Pandas
+- Pandas and GeoPandas
 - NumPy
 - Time-series data
 - Image data and formats (PIL)
